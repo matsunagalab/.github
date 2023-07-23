@@ -2,7 +2,7 @@
 
 ここは松永研究室のGitHub organizationです。研究に使っているコードやスクリプトを出来る限り整理整頓して他人(含む未来の自分)と共有しながら、開発することが目的です。
 Memberになった人はGitHubの勉強もかねて気軽にCommit&Pushすることを奨励します。バージョン管理ですので間違ったCommitも元に戻せますので大丈夫です。
-不安がある人はまず[YouTubeなどでGitHubの使い方を勉強](https://www.youtube.com/results?search_query=GitHub+初心者)してから作業してください。
+不安がある人はまず[YouTubeなどでGitHubの使い方を学んで](https://www.youtube.com/results?search_query=GitHub+初心者)から作業してください。
 Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュー後にマージします。
 
 - README.md を書きましょう。自分のディレクトリにREADME.mdを作成してください。Markdownの練習にもなります。
