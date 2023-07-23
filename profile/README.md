@@ -4,9 +4,9 @@
 
 [MDToolbox.jl](https://github.com/matsunagalab/MDToolbox.jl) A Julia package for molecular dynamics trajectories analysis and modeling of biomolecules
 
-[differentiable](https://github.com/matsunagalab/differentiable) test-bed for differeitiable physical parameter optimization
+[differentiable](https://github.com/matsunagalab/differentiable) testbed for differeitiable physical parameter optimization
 
-[afm (private)](https://github.com/matsunagalab/afm) AFM data (inc. Myosin-V) and some analysis codes
+[afm (private)](https://github.com/matsunagalab/afm) AFM analysis code for integrative modeling
 
 [t1r (private)](https://github.com/matsunagalab/t1r) Taste receptor studies
 
@@ -14,9 +14,9 @@
 
 [fugaku (private)](https://github.com/matsunagalab/fugaku) Files used on Fugaku supercomputer
 
-[capsid](https://github.com/matsunagalab/capsid) Virus capsid studies
+[capsid](https://github.com/matsunagalab/capsid) Virus capsid assembly studies
 
-[fret (private)](https://github.com/matsunagalab/fret) FRET data analysis and integrative modeling
+[fret (private)](https://github.com/matsunagalab/fret) FRET analysis code for integrative modeling
 
 ## Tutorials and lectures
 
