@@ -32,6 +32,8 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 ## Tutorials and lectures repositories
 
+[tutorial on OpenMM](https://github.com/matsunagalab/tutorial_openmm) Tutorial on OpenMM
+
 [tutorial on analyzing MD data](https://github.com/matsunagalab/tutorial_analyzingMDdata) Tutorial on analyzing MD data
 
 [tutorial on hidden Markov modeling](https://github.com/matsunagalab/tutorial_hmm) Tutorial on hidden Markov modeling
