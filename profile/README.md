@@ -1,4 +1,4 @@
-## For students
+## Onboarding
 
 ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他人(含む未来の自分)と共有しながら、開発することが目的です。
 Memberになった人はGitHubの勉強も兼ねて積極的にCommit&Pushすることを奨励します。バージョン管理ですので間違ったCommitも元に戻せますので大丈夫です。
@@ -10,7 +10,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 - 2週間後の自分のためを思って書きましょう。2週間後は現在の作業の詳細は完全に忘れていると思います。それでもすぐに作業に戻れるような情報を書くことを心がけましょう。
 - ファイル名を周りのファイルの慣習にあわせましょう。そのほうが他人がみて意図がわかりやすくなります。
 
-## On-going research
+## On-going research repositories
 
 [notebooks (private)](https://github.com/matsunagalab/notebooks) Experimetal notebooks for on-going studies
 
@@ -30,7 +30,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 [fret (private)](https://github.com/matsunagalab/fret) FRET analysis code for integrative modeling
 
-## Tutorials and lectures
+## Tutorials and lectures repositories
 
 [tutorial on analyzing MD data](https://github.com/matsunagalab/tutorial_analyzingMDdata) Tutorial on analyzing MD data
 
@@ -44,7 +44,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 [lecture on Ordinary Differential Equations](https://github.com/matsunagalab/lecture_ode) Notebooks used in ODE lecture
 
-## Papers
+## Published repositories
 
 [differentiable blind tip reconstruction](https://github.com/matsunagalab/differentiable_BTR) Differentiable BTR for AFM images
 
