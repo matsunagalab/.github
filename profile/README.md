@@ -5,6 +5,10 @@ Memberになった人はGitHubの勉強もかねて気軽にCommit&Pushするこ
 不安がある人はまず[YouTubeなどでGitHubの使い方を勉強](https://www.youtube.com/results?search_query=GitHub+初心者)してから作業してください。
 Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュー後にマージします。
 
+- README.md を書きましょう。自分のディレクトリにREADME.mdを作成してください。Markdownの練習にもなります。
+- ファイル名を周りのファイルにあわせましょう。そのほうが意図がわかりやすくなります。
+- 2週間後の自分のためを思って作業しましょう。2週間後は現在の作業の詳細は完全に忘れていると思います。それでもすぐに作業に戻れるような情報を書くことを心がけましょう。
+
 ## On-going research
 
 [notebooks (private)](https://github.com/matsunagalab/notebooks) Experimetal notebooks for on-going studies
