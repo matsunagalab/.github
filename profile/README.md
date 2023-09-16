@@ -40,7 +40,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [lecture_ML](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab notebooks
 
-- [lecture_ML_julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の noteooks (古いモノでJuliaで書いてある)
+- [lecture_ML_julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の notebooks (古いモノでJuliaで書いてある)
 
 - [lecture_OR](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab notebooks
 
