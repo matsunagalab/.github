@@ -30,7 +30,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [fret (private)](https://github.com/matsunagalab/fret) FRET解析
 
-- [tutorial on OpenMM](https://github.com/matsunagalab/tutorial_openmm) 様々なMDのインプット
+- [md_inputs](https://github.com/matsunagalab/md_inputs) 様々なMDのインプット
 
 ## 講義・演習
 
