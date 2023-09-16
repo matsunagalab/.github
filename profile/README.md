@@ -10,55 +10,48 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 - 2週間後の自分のためを思って書きましょう。2週間後は現在の作業の詳細は完全に忘れていると思います。それでもすぐに作業に戻れるような情報を書くことを心がけましょう。
 - ファイル名を周りのファイルの慣習にあわせましょう。そのほうが他人がみて意図がわかりやすくなります。
 
-## On-going research repositories
+## 研究用のリポジトリ
 
-[notebooks (private)](https://github.com/matsunagalab/notebooks) Experimetal notebooks for on-going studies
+- [notebooks (private)](https://github.com/matsunagalab/notebooks) 様々なことを試しているJupyter notebooks
 
-[MDToolbox.jl](https://github.com/matsunagalab/MDToolbox.jl) A Julia package for molecular dynamics trajectories analysis and modeling of biomolecules
+- [MDToolbox.jl](https://github.com/matsunagalab/MDToolbox.jl) 開発しているJuliaパッケージ
 
-[differentiable](https://github.com/matsunagalab/differentiable) testbed for differeitiable physical parameter optimization
+- [differentiable](https://github.com/matsunagalab/differentiable) 微分可能アプローチ
 
-[afm (private)](https://github.com/matsunagalab/afm) AFM analysis code for integrative modeling
+- [afm (private)](https://github.com/matsunagalab/afm) AFM解析
 
-[t1r (private)](https://github.com/matsunagalab/t1r) Taste receptor studies
+- [t1r (private)](https://github.com/matsunagalab/t1r) 味覚受容体
 
-[vhh (private)](https://github.com/matsunagalab/vhh) VHH (nanobody) studies
+- [vhh (private)](https://github.com/matsunagalab/vhh) VHH抗体 (nanobody)
 
-[fugaku (private)](https://github.com/matsunagalab/fugaku) Files used on Fugaku supercomputer
+- [fugaku (private)](https://github.com/matsunagalab/fugaku) 富岳
 
-[capsid](https://github.com/matsunagalab/capsid) Virus capsid assembly studies
+- [capsid](https://github.com/matsunagalab/capsid) カプシド
 
-[fret (private)](https://github.com/matsunagalab/fret) FRET analysis code for integrative modeling
+- [fret (private)](https://github.com/matsunagalab/fret) FRET解析
 
-## Tutorials and lectures repositories
+- [tutorial on OpenMM](https://github.com/matsunagalab/tutorial_openmm) 様々なMDのインプット
 
-[tutorial on OpenMM](https://github.com/matsunagalab/tutorial_openmm) Tutorial on OpenMM
+## 講義・演習
 
-[tutorial on analyzing MD data](https://github.com/matsunagalab/tutorial_analyzingMDdata) Tutorial on analyzing MD data
+- [tutorial on analyzing MD data](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
-[tutorial on hidden Markov modeling](https://github.com/matsunagalab/tutorial_hmm) Tutorial on hidden Markov modeling
+- [tutorial on hidden Markov modeling](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
-[lecture on Machine Learning with Python](https://github.com/matsunagalab/lecture_ML) Notebooks used in the lecture on machine learning
+- [lecture on Machine Learning with Python](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab noteooks
 
-[lecture on Machine Learning with Julia](https://github.com/matsunagalab/lecture_ML_julia) Old notebooks used in the lecture on machine learning
+- [lecture on Machine Learning with Julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の noteooks (古いモノでJuliaで書いてある)
 
-[lecture on Operations Research](https://github.com/matsunagalab/lecture_OR) Notebooks used in the lecture on operations research
+- [lecture on Operations Research](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab noteooks
 
-[lecture on Ordinary Differential Equations](https://github.com/matsunagalab/lecture_ode) Notebooks used in ODE lecture
+- [lecture on Ordinary Differential Equations](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
 
-## Published repositories
+## 出版した論文関連
 
-[differentiable blind tip reconstruction](https://github.com/matsunagalab/differentiable_BTR) Differentiable BTR for AFM images
+- [differentiable blind tip reconstruction](https://github.com/matsunagalab/differentiable_BTR) En-to-end differentiable blind tip reconstruction
 
-[paper_mbar](https://github.com/matsunagalab/paper_mbar) MBAR
+- [paper_mbar](https://github.com/matsunagalab/paper_mbar) Multistate Bennett Acceptance Ratio
 
-[paper_ogane2022](https://github.com/matsunagalab/paper_ogane2022) HMM of HS-AFM data
+- [paper_ogane2022](https://github.com/matsunagalab/paper_ogane2022) 高速AFMデータの隠れマルコフ解析
 
-[paper_higashida2021](https://github.com/matsunagalab/paper_higashida2021) gREST of VHH
-
-
-
-
-
-
-
+- [paper_higashida2021](https://github.com/matsunagalab/paper_higashida2021) VHH抗体のgREST
