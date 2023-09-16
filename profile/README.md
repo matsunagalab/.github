@@ -38,11 +38,11 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
-- [lecture_ML](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab noteooks
+- [lecture_ML](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab notebooks
 
 - [lecture_ML_julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の noteooks (古いモノでJuliaで書いてある)
 
-- [lecture_OR](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab noteooks
+- [lecture_OR](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab notebooks
 
 - [lecture_ode](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
 
