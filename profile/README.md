@@ -34,21 +34,21 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 ## 講義・演習
 
-- [tutorial on analyzing MD data](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
+- [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
-- [tutorial on hidden Markov modeling](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
+- [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
-- [lecture on Machine Learning with Python](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab noteooks
+- [lecture_ML](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab noteooks
 
-- [lecture on Machine Learning with Julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の noteooks (古いモノでJuliaで書いてある)
+- [lecture_ML_julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の noteooks (古いモノでJuliaで書いてある)
 
-- [lecture on Operations Research](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab noteooks
+- [lecture_OR](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab noteooks
 
-- [lecture on Ordinary Differential Equations](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
+- [lecture_ode](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
 
 ## 出版した論文関連
 
-- [differentiable blind tip reconstruction](https://github.com/matsunagalab/differentiable_BTR) En-to-end differentiable blind tip reconstruction
+- [differentiable_BTR](https://github.com/matsunagalab/differentiable_BTR) En-to-end differentiable blind tip reconstruction
 
 - [paper_mbar](https://github.com/matsunagalab/paper_mbar) Multistate Bennett Acceptance Ratio
 
