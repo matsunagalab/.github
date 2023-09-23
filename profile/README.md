@@ -60,11 +60,10 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 ## 🌟 出版した論文関連
 
-- [differentiable_BTR](https://github.com/matsunagalab/differentiable_BTR) En-to-end differentiable blind tip reconstruction
+- [differentiable_BTR](https://github.com/matsunagalab/differentiable_BTR) End-to-end differentiable blind tip reconstruction for noisy atomic force microscopy images
 
-- [paper_mbar](https://github.com/matsunagalab/paper_mbar) Multistate Bennett Acceptance Ratio
+- [paper_mbar](https://github.com/matsunagalab/paper_mbar) Use of multistate Bennett acceptance ratio method for free-energy calculations from enhanced sampling and free-energy perturbation
 
-- [paper_ogane2022](https://github.com/matsunagalab/paper_ogane2022) 高速AFMデータの隠れマルコフ解析
+- [paper_ogane2022](https://github.com/matsunagalab/paper_ogane2022) Development of hidden Markov modeling method for molecular orientations and structure estimation from high-speed atomic force microscopy time-series images
 
-- [paper_higashida2021](https://github.com/matsunagalab/paper_higashida2021) VHH抗体のgREST
-
+- [paper_higashida2021](https://github.com/matsunagalab/paper_higashida2021) Enhanced Conformational Sampling of Nanobody CDR H3 Loop by Generalized Replica-Exchange with Solute Tempering
