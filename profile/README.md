@@ -1,8 +1,8 @@
-## 学生の皆さんへ
+## 👋 学生の皆さんへ
 
 ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他人(含む未来の自分)と共有しながら、開発することが目的です。
 Organization memberになった人はGitHubの勉強も兼ねて積極的にCommit&Pushすることを奨励します。バージョン管理ですので間違ったCommitも元に戻せますので大丈夫です。
-気軽にやってください。
+気軽にやってください👍。
 不安がある人はまず[YouTubeなどでGitHubとは何かを学んで](https://www.youtube.com/results?search_query=GitHub+初心者)から作業してください。
 Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュー後にマージします。
 
@@ -10,7 +10,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 - 2週間後の自分のためを思って書きましょう。2週間後は現在の作業の詳細は完全に忘れていると思います。それでもすぐに作業に戻れるような情報を書くことを心がけましょう。
 - ファイル名を周りのファイルの慣習にあわせましょう。そのほうが他人がみて意図がわかりやすくなります。
 
-## 研究用のリポジトリ
+## 🗼 研究用のリポジトリ
 
 - [notebooks (private)](https://github.com/matsunagalab/notebooks) 様々なことを試しているJupyter notebooks
 
@@ -32,7 +32,19 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [md_inputs](https://github.com/matsunagalab/md_inputs) 様々なMDのインプット
 
-## 講義・演習
+## 🐤 ラボ内向け
+
+- [thesis (private)](https://github.com/matsunagalab/thesis) 卒論・修論関連
+
+- [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連
+
+- [management (private)](https://github.com/matsunagalab/management) マネージメント
+
+- [howto (private)](https://github.com/matsunagalab/howto) 様々なhowto
+
+- [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
+
+## 🤯 講義・演習
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
@@ -46,7 +58,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [lecture_ode](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
 
-## 出版した論文関連
+## 🌟 出版した論文関連
 
 - [differentiable_BTR](https://github.com/matsunagalab/differentiable_BTR) En-to-end differentiable blind tip reconstruction
 
@@ -55,3 +67,4 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 - [paper_ogane2022](https://github.com/matsunagalab/paper_ogane2022) 高速AFMデータの隠れマルコフ解析
 
 - [paper_higashida2021](https://github.com/matsunagalab/paper_higashida2021) VHH抗体のgREST
+
