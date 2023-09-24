@@ -1,12 +1,12 @@
 ## 👋 学生の皆さんへ
 
-ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、開発することが目的です。
-メンバーになった人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理ですので間違ったCommitも元に戻せますので大丈夫です。
+ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、研究を進めることが目的です。
+メンバーの人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理でですので間違ったCommitをしても大丈夫です。
 気負わずにやってください👍。
 不安がある人はまず[YouTubeなどでGitHubとは何かを学んで](https://www.youtube.com/results?search_query=GitHub+初心者)から作業してください。
 心配ならば、Commit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
 
-- [テスト用のリポジトリ(test)](https://github.com/matsunagalab/test)があります。まずはそこで自由に遊んでみてください。
+- [テスト用のリポジトリ(test)](https://github.com/matsunagalab/test)があります。まずはそこで自由に遊んでください。
 - Markdownの書き方を調べて `README.md` を書いてみましょう。テスト用のリポジトリの`README.md` を編集してみてください。
 
 - `README.md` は普通ディレクトリ毎に作成します。作業に使うディレクトリの案内文です。他のメンバーや2週間後の自分(2週間たてば現在の作業はすっかり忘れています！)のためを思って書きましょう。そのディレクトリですぐに作業できる情報を書くことを心がけましょう。
@@ -60,7 +60,7 @@
 
 - [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
 
-- [pc_cluster](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方などの説明
+- [pc_cluster](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方など
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
