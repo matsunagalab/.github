@@ -42,8 +42,6 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [management (private)](https://github.com/matsunagalab/management) マネージメント
 
-- [howto (private)](https://github.com/matsunagalab/howto) 様々なhowto
-
 - [marp](https://github.com/matsunagalab/marp) スライドのテンプレート
 
 - [hugo](https://github.com/matsunagalab/hugo) 研究室Webページのソース
@@ -51,6 +49,8 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 - [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
 
 ## 🤯 講義・演習
+
+- [howto (private)](https://github.com/matsunagalab/howto) 論文紹介や卒論作成等の様々なハウツー
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
