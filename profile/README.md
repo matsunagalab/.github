@@ -60,7 +60,7 @@
 
 - [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
 
-- [tutorial_basic](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方などの説明
+- [pc_cluster](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方などの説明
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
