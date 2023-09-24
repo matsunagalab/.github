@@ -38,7 +38,7 @@
 
 ## 🐤 ラボ内向け
 
-- [on-boarding](https://github.com/matsunagalab/on-boarding) 新たに研究室に加わったメンバー向けの案内情報
+- [on-boarding (private)](https://github.com/matsunagalab/on-boarding) 新たに研究室に加わったメンバー向けの案内情報
 
 - [thesis (private)](https://github.com/matsunagalab/thesis) 卒論・修論関連
 
