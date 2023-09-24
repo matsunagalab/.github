@@ -46,6 +46,8 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [marp](https://github.com/matsunagalab/marp) スライドのテンプレート
 
+- [hugo](https://github.com/matsunagalab/hugo) 研究室Webページのソース
+
 - [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
 
 ## 🤯 講義・演習
