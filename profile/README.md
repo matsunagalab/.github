@@ -52,6 +52,8 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
+- [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
+
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
 - [lecture_ML](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab notebooks
