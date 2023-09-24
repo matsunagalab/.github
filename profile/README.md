@@ -14,7 +14,7 @@
 
 ## 🗼 研究用のリポジトリ
 
-- [notebooks (private)](https://github.com/matsunagalab/notebooks) 様々なことを試しているJupyter notebooks
+- [notebooks (private)](https://github.com/matsunagalab/notebooks) 思いついたことを試しているJupyter notebooks
 
 - [MDToolbox.jl](https://github.com/matsunagalab/MDToolbox.jl) 開発しているJuliaパッケージ
 
