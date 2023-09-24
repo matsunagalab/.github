@@ -1,7 +1,7 @@
 ## 👋 学生の皆さんへ
 
 ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、研究を進めることが目的です。
-メンバーの人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理でですので間違ったCommitをしても大丈夫です。
+メンバーの人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理ですので間違ったCommitをしても大丈夫です。
 気負わずにやってください👍。
 不安がある人はまず[YouTubeなどでGitHubとは何かを学んで](https://www.youtube.com/results?search_query=GitHub+初心者)から作業してください。
 心配ならば、Commit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
@@ -52,15 +52,15 @@
 
 ## 🤯 講義・演習
 
-- [tutorial_basic](https://github.com/matsunagalab/tutorial_basic) コンピュータ(主にMac)のセットアップと基本的な使い方
-
 - [howto](https://github.com/matsunagalab/howto) 論文紹介の仕方や卒論の書き方等の様々な解説
+
+- [pc_cluster](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方など
+
+- [tutorial_basic](https://github.com/matsunagalab/tutorial_basic) コンピュータ(主にMac)のセットアップと基本的な使い方
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
 - [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
-
-- [pc_cluster](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方など
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
