@@ -1,15 +1,15 @@
 ## 👋 学生の皆さんへ
 
-ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他人(含む未来の自分)と共有しながら、開発することが目的です。
-Organization memberになった人はGitHubの勉強も兼ねて積極的にCommit&Pushすることを奨励します。バージョン管理ですので間違ったCommitも元に戻せますので大丈夫です。
-気軽にやってください👍。
+ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、開発することが目的です。
+メンバーになった人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理ですので間違ったCommitも元に戻せますので大丈夫です。
+気負わずにやってください👍。
 不安がある人はまず[YouTubeなどでGitHubとは何かを学んで](https://www.youtube.com/results?search_query=GitHub+初心者)から作業してください。
-Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュー後にマージします。
+心配ならば、Commit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
 
 - [テスト用のリポジトリ(test)](https://github.com/matsunagalab/test)があります。まずはそこで自由に遊んでみてください。
 - Markdownの書き方を調べて `README.md` を書いてみましょう。テスト用のリポジトリの`README.md` を編集してみてください。
 
-- `README.md` は普通ディレクトリ毎に作成します。作業に使うディレクトリの案内文です。他の人たちや2週間後の自分(2週間たてば現在の作業はすっかり忘れています！)のためを思って書きましょう。そのディレクトリですぐに作業できる情報を書くことを心がけましょう。
+- `README.md` は普通ディレクトリ毎に作成します。作業に使うディレクトリの案内文です。他のメンバーや2週間後の自分(2週間たてば現在の作業はすっかり忘れています！)のためを思って書きましょう。そのディレクトリですぐに作業できる情報を書くことを心がけましょう。
 - ファイル名を周りのファイルの慣習にあわせましょう。そのほうが他人がみて意図がわかりやすくなります。
 
 ## 🗼 研究用のリポジトリ
@@ -32,7 +32,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [fret (private)](https://github.com/matsunagalab/fret) FRET解析
 
-- [md_inputs](https://github.com/matsunagalab/md_inputs) 様々なMDのインプット
+- [md_inputs](https://github.com/matsunagalab/md_inputs) 様々な分子のMDインプット
 
 ## 🐤 ラボ内向け
 
@@ -50,7 +50,9 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 ## 🤯 講義・演習
 
-- [howto (private)](https://github.com/matsunagalab/howto) 論文紹介や卒論作成等の様々なハウツー
+- [tutorial_basic](https://github.com/matsunagalab/tutorial_basic) コンピュータ(主にMac)のセットアップと基本的な使い方
+
+- [howto](https://github.com/matsunagalab/howto) 論文紹介の仕方や卒論の書き方等の様々な解説
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
@@ -60,7 +62,7 @@ Commit&Pushの代わりにPull Requestをしてくれれば、松永がレビュ
 
 - [lecture_ML](https://github.com/matsunagalab/lecture_ML) 講義「機械学習」の Colab notebooks
 
-- [lecture_ML_julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の notebooks (古いモノでJuliaで書いてある)
+- [lecture_ML_julia](https://github.com/matsunagalab/lecture_ML_julia) 講義「機械学習」の notebooks (古いものでJuliaで書いてある)
 
 - [lecture_OR](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab notebooks
 
