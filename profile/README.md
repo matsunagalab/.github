@@ -34,19 +34,21 @@
 
 - [md_inputs](https://github.com/matsunagalab/md_inputs) 様々な分子のMDインプット
 
+- [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
+
 ## 🐤 ラボ内向け
+
+- [on-boarding](https://github.com/matsunagalab/on-boarding) 新たに研究室に配属されたメンバー向けの案内情報
 
 - [thesis (private)](https://github.com/matsunagalab/thesis) 卒論・修論関連
 
 - [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連
 
-- [management (private)](https://github.com/matsunagalab/management) マネージメント
-
-- [marp](https://github.com/matsunagalab/marp) スライドのテンプレート
+- [slide](https://github.com/matsunagalab/slide) スライドのテンプレート
 
 - [hugo](https://github.com/matsunagalab/hugo) 研究室Webページのソース
 
-- [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
+- [management (private)](https://github.com/matsunagalab/management) マネージメント用
 
 ## 🤯 講義・演習
 
@@ -57,6 +59,8 @@
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
 - [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
+
+- [tutorial_basic](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方などの説明
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
