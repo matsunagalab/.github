@@ -7,7 +7,7 @@
 心配ならば、Commit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
 
 - [テスト用のリポジトリ(test)](https://github.com/matsunagalab/test)があります。まずはそこで自由に遊んでください。
-- Markdownの書き方を調べて `README.md` を書いてみましょう。テスト用のリポジトリの`README.md` を編集してみてください。
+- Markdownの書き方を調べて `README.md` を書いてみましょう。テスト用のリポジトリにディレクトリを作成してREADME.mdを書き、Commit&Pushしてみてください。
 
 - `README.md` は普通ディレクトリ毎に作成します。作業に使うディレクトリの案内文です。他のメンバーや2週間後の自分(2週間たてば現在の作業はすっかり忘れています！)のためを思って書きましょう。そのディレクトリですぐに作業できる情報を書くことを心がけましょう。
 - ファイル名を周りのファイルの慣習にあわせましょう。そのほうが他人がみて意図がわかりやすくなります。
@@ -58,9 +58,9 @@
 
 - [tutorial_basic](https://github.com/matsunagalab/tutorial_basic) コンピュータ(主にMac)のセットアップと基本的な使い方
 
-- [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
-
 - [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
+
+- [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
