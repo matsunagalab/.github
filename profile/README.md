@@ -1,14 +1,14 @@
 ## 👋 学生の皆さんへ
 
-ここは松永研究室のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、研究を進めることが目的です。
+ここは松永研究室@埼玉大学のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、研究を進めることが目的です。
 メンバーの人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理ですので間違ったCommitをしても大丈夫です。
 気負わずにやってください👍。
-不安がある人はまず[YouTubeでGitHubとは何かを学んで](https://www.youtube.com/results?search_query=GitHub+初心者)から作業してください。
+不安がある人はまず[YouTubeでGitHubとは何かを学んだり](https://www.youtube.com/results?search_query=GitHub+初心者)、
+[後藤先生の解説を読んで](https://www.aise.ics.saitama-u.ac.jp/~gotoh/IntroGitHub.html)から作業してください。
 心配ならばCommit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
 
 - [テスト用のリポジトリ(test)](https://github.com/matsunagalab/test)があります。まずはそこで自由に遊んでください。
 - Markdownの書き方を調べて `README.md` を書いてみましょう。テスト用のリポジトリにディレクトリを作成してREADME.mdを書き、Commit&Pushしてみてください。
-
 - `README.md` は作業ディレクトリ毎に作成します。そのディレクトリの案内役です。他のメンバーや2週間後の自分(2週間たてば現在の作業はすっかり忘れています！)のためを思って書きましょう。そのディレクトリですぐに作業できる情報を書くことを心がけましょう。
 - ファイル名を周りのファイルの慣習にあわせましょう。そのほうが他人がみて意図がわかりやすくなります。
 
