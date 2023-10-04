@@ -1,8 +1,7 @@
-## 👋 学生の皆さんへ
+## 学生の皆さんへ
 
 ここは松永研究室@埼玉大学のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、研究を進めることが目的です。
 メンバーの人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理ですので間違ったCommitをしても大丈夫です。
-気負わずにやってください👍。
 不安がある人はまず[YouTubeでGitHubとは何かを学んだり](https://www.youtube.com/results?search_query=GitHub+初心者)、
 [後藤先生の解説を読んで](https://www.aise.ics.saitama-u.ac.jp/~gotoh/IntroGitHub.html)から作業してください。
 心配ならばCommit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
