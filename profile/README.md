@@ -33,6 +33,10 @@
 
 - [md_inputs](https://github.com/matsunagalab/md_inputs) 様々な分子のMDインプット
 
+- [tau (private)](https://github.com/matsunagalab/tau) タウたんぱく質
+
+- [pngase (private)](https://github.com/matsunagalab/pngase) PNGase
+
 - [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
 
 ## 🐤 ラボ内向け
