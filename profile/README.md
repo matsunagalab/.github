@@ -49,13 +49,9 @@
 
 - [slide](https://github.com/matsunagalab/slide) 進捗報告と発表に使うスライドのテンプレート
 
-## 🤯 講義・演習
+## 🤯 教育
 
-- [howto](https://github.com/matsunagalab/howto) 論文紹介の仕方や卒論の書き方等の様々な解説
-
-- [pc_cluster](https://github.com/matsunagalab/pc_cluster) 研究室のPCクラスタの使い方など
-
-- [tutorial_basic](https://github.com/matsunagalab/tutorial_basic) コンピュータ(主にMac)のセットアップと基本的な使い方
+- [howto](https://github.com/matsunagalab/howto) 研究室メンバ向けの様々な解説
 
 - [tutorial_pymol](https://github.com/matsunagalab/tutorial_pymol) 分子構造可視化ソフトPyMOLのチュートリアル
 
