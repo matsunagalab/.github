@@ -47,11 +47,7 @@
 
 - [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連
 
-- [slide](https://github.com/matsunagalab/slide) スライドのテンプレート
-
-- [hugo](https://github.com/matsunagalab/hugo) 研究室Webページのソース
-
-- [management (private)](https://github.com/matsunagalab/management) マネージメント用
+- [slide](https://github.com/matsunagalab/slide) 進捗報告と発表に使うスライドのテンプレート
 
 ## 🤯 講義・演習
 
