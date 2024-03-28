@@ -35,6 +35,8 @@
 
 - [tau (private)](https://github.com/matsunagalab/tau) タウたんぱく質
 
+- [aqds (private)](https://github.com/matsunagalab/aqds) AQDS and Bovine Serum Albumin
+
 - [pngase (private)](https://github.com/matsunagalab/pngase) PNGase
 
 - [test](https://github.com/matsunagalab/test) 🔰初めての人が触ってみるテストリポジトリ
