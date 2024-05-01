@@ -3,7 +3,8 @@
 ここは松永研究室@埼玉大学のGitHub organizationです。研究に使っているコードやデータを整理整頓して他のメンバーと共有しながら、研究を進めることが目的です。
 メンバーの人はGitHubの勉強も兼ねて積極的にCommit&Pushしてください。バージョン管理ですので間違ったCommitをしても大丈夫です。
 不安がある人はまず[YouTubeでGitHubとは何かを学んだり](https://www.youtube.com/results?search_query=GitHub+初心者)、
-[後藤先生の解説を読んで](https://www.aise.ics.saitama-u.ac.jp/~gotoh/IntroGitHub.html)から作業してください。
+[後藤先生の解説を読んだり](https://www.aise.ics.saitama-u.ac.jp/~gotoh/IntroGitHub.html)、
+[渡邊先生のGitHub演習を読んだり](https://kaityo256.github.io/github/)してから作業してください。
 心配ならばCommit&Pushの代わりにPull Requestをしてくれれば教員がレビュー後にマージします。
 
 - [テスト用のリポジトリ(test)](https://github.com/matsunagalab/test)があります。まずはそこで自由に遊んでください。
@@ -49,7 +50,7 @@
 
 - [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連
 
-- [slide](https://github.com/matsunagalab/slide) 進捗報告と発表に使うスライドのテンプレート
+- [slide](https://github.com/matsunagalab/slide) 進捗報告、論文紹介、研究発表に使うスライドのテンプレート
 
 ## 🤯 教育
 
