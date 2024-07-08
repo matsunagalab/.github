@@ -34,7 +34,7 @@
 
 - [md_inputs](https://github.com/matsunagalab/md_inputs) 様々な分子のMDインプット
 
-- [tau](https://github.com/matsunagalab/tau) タウたんぱく質
+- [tau (private)](https://github.com/matsunagalab/tau) タウたんぱく質
 
 - [aqds (private)](https://github.com/matsunagalab/aqds) AQDS and Bovine Serum Albumin
 
