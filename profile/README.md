@@ -56,7 +56,7 @@
 
 - [howto](https://github.com/matsunagalab/howto) 研究室メンバ向けの様々な解説
 
-- [tutorial_pymol](https://github.com/matsunagalab/tutorial_viz) 分子構造可視化ソフトのハンズオン集
+- [tutorial_viz](https://github.com/matsunagalab/tutorial_viz) 分子構造可視化ソフトのチュートリアル集
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
