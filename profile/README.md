@@ -28,8 +28,6 @@
 
 - [fugaku (private)](https://github.com/matsunagalab/fugaku) 富岳
 
-- [capsid](https://github.com/matsunagalab/capsid) カプシド
-
 - [fret (private)](https://github.com/matsunagalab/fret) FRET解析
 
 - [md_inputs](https://github.com/matsunagalab/md_inputs) 様々な分子のMDインプット
@@ -70,7 +68,9 @@
 
 - [lecture_ode](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
 
-## 🌟 出版した論文関連
+## 🌟 論文に用いたリポジトリ
+
+- [capsid](https://github.com/matsunagalab/capsid) Explicit description of viral capsid subunit shapes by expanding dihedrons
 
 - [differentiable_BTR](https://github.com/matsunagalab/differentiable_BTR) End-to-end differentiable blind tip reconstruction for noisy atomic force microscopy images
 
