@@ -70,6 +70,10 @@
 
 ## 🌟 論文に用いたリポジトリ
 
+- [protein G](https://github.com/matsunagalab/proteing) Correcting folding pathway of Protein G by integrative modeling with Markov state model
+
+- [myosin V](https://github.com/matsunagalab/myosinV) Hidden Markov Modeling of Myosin V Walking on Actin Filament using High-Speed Atomic Force Microscopy Data
+
 - [capsid](https://github.com/matsunagalab/capsid) Explicit description of viral capsid subunit shapes by expanding dihedrons
 
 - [differentiable_BTR](https://github.com/matsunagalab/differentiable_BTR) End-to-end differentiable blind tip reconstruction for noisy atomic force microscopy images
