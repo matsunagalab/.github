@@ -42,19 +42,19 @@
 
 ## 🐤 ラボ内向け
 
-- [ガイダンス](https://github.com/matsunagalab/howto/blob/main/ガイダンス.md) 研究室ガイダンス
+- [ガイダンス.md](https://github.com/matsunagalab/howto/blob/main/ガイダンス.md) 研究室ガイダンス
 
-- [Macのセットアップ](https://github.com/matsunagalab/howto/blob/main/Macのセットアップ.md) Macのセットアップ
+- [Macのセットアップ.md](https://github.com/matsunagalab/howto/blob/main/Macのセットアップ.md) Macのセットアップ
 
-- [Macの使い方](https://github.com/matsunagalab/howto/blob/main/Macの使い方.md) Macの使い方
+- [Macの使い方.md](https://github.com/matsunagalab/howto/blob/main/Macの使い方.md) Macの使い方
 
-- [研究室サーバの使い方](https://github.com/matsunagalab/howto/blob/main/研究室サーバの使い方.md) 研究室サーバの使い方
+- [研究室サーバの使い方.md](https://github.com/matsunagalab/howto/blob/main/研究室サーバの使い方.md) 研究室サーバの使い方
 
-- [外部から研究室サーバへの接続方法](https://github.com/matsunagalab/howto/blob/main/外部から研究室サーバへの接続方法.md) 外部から研究室サーバへの接続方法
+- [外部から研究室サーバへの接続方法.md](https://github.com/matsunagalab/howto/blob/main/外部から研究室サーバへの接続方法.md) 外部から研究室サーバへの接続方法
 
-- [研究室サーバの管理](https://github.com/matsunagalab/howto/blob/main/研究室サーバの管理.md) 研究室サーバの管理
+- [研究室サーバの管理.md](https://github.com/matsunagalab/howto/blob/main/研究室サーバの管理.md) 研究室サーバの管理
 
-- [論文紹介の仕方](https://github.com/matsunagalab/howto/blob/main/論文紹介の仕方.pdf) 論文紹介の仕方
+- [論文紹介の仕方.pdf](https://github.com/matsunagalab/howto/blob/main/論文紹介の仕方.pdf) 論文紹介の仕方
 
 - [卒論の書き方.md](https://github.com/matsunagalab/howto/blob/main/卒論の書き方.md) 卒論の書き方
 
@@ -64,7 +64,11 @@
 
 - [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連ファイル
 
-- [tutorial_viz](https://github.com/matsunagalab/tutorial_viz) 分子構造可視化ソフトのチュートリアル集
+- [pymol.md][https://github.com/matsunagalab/tutorial_viz/blob/main/pymol.md] PyMOLチュートリアル
+
+- [vmd.md][https://github.com/matsunagalab/tutorial_viz/blob/main/vmd.md] VMDチュートリアル
+
+- [blender.md][https://github.com/matsunagalab/tutorial_viz/blob/main/blender.md] Blenderチュートリアル
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
