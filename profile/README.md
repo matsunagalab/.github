@@ -64,11 +64,11 @@
 
 - [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連ファイル
 
-- [pymol.md][https://github.com/matsunagalab/tutorial_viz/blob/main/pymol.md] PyMOLチュートリアル
+- [pymol.md](https://github.com/matsunagalab/tutorial_viz/blob/main/pymol.md) PyMOLチュートリアル
 
-- [vmd.md][https://github.com/matsunagalab/tutorial_viz/blob/main/vmd.md] VMDチュートリアル
+- [vmd.md](https://github.com/matsunagalab/tutorial_viz/blob/main/vmd.md) VMDチュートリアル
 
-- [blender.md][https://github.com/matsunagalab/tutorial_viz/blob/main/blender.md] Blenderチュートリアル
+- [blender.md](https://github.com/matsunagalab/tutorial_viz/blob/main/blender.md) Blenderチュートリアル
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
