@@ -54,7 +54,7 @@
 
 - [研究室サーバの管理.md](https://github.com/matsunagalab/howto/blob/main/研究室サーバの管理.md) 研究室サーバの管理
 
-- [論文紹介の仕方.pdf](https://github.com/matsunagalab/howto/blob/main/論文紹介の仕方.pdf) 論文紹介の仕方
+- [論文紹介の仕方.md](https://github.com/matsunagalab/howto/blob/main/論文紹介の仕方.md) 論文紹介の仕方
 
 - [修論・卒論の書き方.md](https://github.com/matsunagalab/howto/blob/main/修論・卒論の書き方.md) 修論・卒論の書き方.md
 
