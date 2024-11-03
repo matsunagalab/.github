@@ -56,7 +56,7 @@
 
 - [論文紹介の仕方.md](https://github.com/matsunagalab/howto/blob/main/論文紹介の仕方.md) 論文紹介の仕方
 
-- [修論・卒論の書き方.md](https://github.com/matsunagalab/howto/blob/main/修論・卒論の書き方.md) 修論・卒論の書き方.md
+- [修論・卒論の書き方.md](https://github.com/matsunagalab/howto/blob/main/修論・卒論の書き方.md) 修論・卒論の書き方
 
 - [slide](https://github.com/matsunagalab/slide) 進捗報告、論文紹介、研究発表に使うスライドのテンプレート
 
