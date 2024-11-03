@@ -42,21 +42,33 @@
 
 ## 🐤 ラボ内向け
 
-- [on-boarding (private)](https://github.com/matsunagalab/on-boarding) 新たに研究室に加わったメンバー向けの案内情報
+- [ガイダンス](https://github.com/matsunagalab/howto/blob/main/ガイダンス.md) 研究室ガイダンス
 
-- [thesis (private)](https://github.com/matsunagalab/thesis) 卒論・修論関連
+- [Macのセットアップ](https://github.com/matsunagalab/howto/blob/main/Macのセットアップ.md) Macのセットアップ
 
-- [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連
+- [Macの使い方](https://github.com/matsunagalab/howto/blob/main/Macの使い方.md) Macの使い方
+
+- [研究室サーバの使い方](https://github.com/matsunagalab/howto/blob/main/研究室サーバの使い方.md) 研究室サーバの使い方
+
+- [外部から研究室サーバへの接続方法](https://github.com/matsunagalab/howto/blob/main/外部から研究室サーバへの接続方法.md) 外部から研究室サーバへの接続方法
+
+- [研究室サーバの管理](https://github.com/matsunagalab/howto/blob/main/研究室サーバの管理.md) 研究室サーバの管理
+
+- [論文紹介の仕方](https://github.com/matsunagalab/howto/blob/main/論文紹介の仕方.pdf) 論文紹介の仕方
+
+- [卒論の書き方.md](https://github.com/matsunagalab/howto/blob/main/卒論の書き方.md) 卒論の書き方
 
 - [slide](https://github.com/matsunagalab/slide) 進捗報告、論文紹介、研究発表に使うスライドのテンプレート
 
-## 🤯 教育
+- [thesis (private)](https://github.com/matsunagalab/thesis) 卒論・修論関連ファイル
 
-- [howto](https://github.com/matsunagalab/howto) 研究室メンバ向けの様々な解説
+- [conference (private)](https://github.com/matsunagalab/conference) 学会発表関連ファイル
 
 - [tutorial_viz](https://github.com/matsunagalab/tutorial_viz) 分子構造可視化ソフトのチュートリアル集
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
+
+## 🤯 教育
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
 
