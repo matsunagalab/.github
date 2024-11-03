@@ -70,7 +70,7 @@
 
 - [blender.md](https://github.com/matsunagalab/tutorial_viz/blob/main/blender.md) Blenderチュートリアル
 
-- [MDシミュレーションのtips.md](https://github.com/matsunagalab/howto/blob/main/MDシミュレーションのtips.md) MDシミュレーションのtips.md
+- [MDシミュレーションのtips.md](https://github.com/matsunagalab/howto/blob/main/MDシミュレーションのtips.md) MDシミュレーションのtips
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
