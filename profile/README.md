@@ -76,6 +76,14 @@
 
 - [tutorial_analyzingMDdata](https://github.com/matsunagalab/tutorial_analyzingMDdata) MDデータ解析のチュートリアル
 
+- GPTs [修論・卒論をチェックするbot](https://chatgpt.com/g/g-o6tmVEUZK-xiu-lun-zu-lun-wotietukusurubot)
+
+- GPTs [発表スライドをチェックするbot](https://chatgpt.com/g/g-anaTsfi19-fa-biao-suraitowotietukusurubot)
+
+- GPTs [発表スライドから質問するbot](https://chatgpt.com/g/g-ajvKmcCyp-fa-biao-suraitokarazhi-wen-surubot)
+
+- GPTs [画像からmatplotlibコード](https://chatgpt.com/g/g-Qnv6cvunS-hua-xiang-karamatplotlibkoto)
+
 ## 🤯 教育
 
 - [tutorial_hmm](https://github.com/matsunagalab/tutorial_hmm) 隠れマルコフモデルのチュートリアル
