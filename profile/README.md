@@ -65,7 +65,7 @@
 - [lecture_OR](https://github.com/matsunagalab/lecture_OR) 講義「オペレーションズリサーチ」の Colab notebooks
 - [lecture_ode](https://github.com/matsunagalab/lecture_ode) 微分方程式関連の講義の notebooks (Juliaで書いてある)
 
-## 🌟 論文に用いたリポジトリ
+## 🌟 Repositories for published papers
 
 - [protein G](https://github.com/matsunagalab/proteing) Correcting folding pathway of Protein G by integrative modeling with Markov state model
 - [myosin V](https://github.com/matsunagalab/myosinV) Hidden Markov Modeling of Myosin V Walking on Actin Filament using High-Speed Atomic Force Microscopy Data
