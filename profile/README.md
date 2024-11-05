@@ -48,7 +48,7 @@
   - [PyMOLチュートリアル](https://www.bio.ics.saitama-u.ac.jp/tutorial_viz/pymol.html)
   - [VMDチュートリアル](https://www.bio.ics.saitama-u.ac.jp/tutorial_viz/vmd.html)
   - [Blenderチュートリアル](https://www.bio.ics.saitama-u.ac.jp/tutorial_viz/blender.html)
-  - [MDシミュレーションのtips](https://github.com/matsunagalab/howto/blob/main/MDシミュレーションのtips.md)
+  - [MDシミュレーションのtips](https://www.bio.ics.saitama-u.ac.jp/howto/MDシミュレーションのtips.html)
   - [MDデータ解析のチュートリアル](https://github.com/matsunagalab/tutorial_analyzingMDdata)
  
 - ツール
