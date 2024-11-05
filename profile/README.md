@@ -52,7 +52,7 @@
   - [MDデータ解析のチュートリアル](https://github.com/matsunagalab/tutorial_analyzingMDdata)
  
 - ツール
-  - [発表スライドチェックリスト]()
+  - [発表スライドチェックリスト](https://forms.office.com/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIVUrvuwyQf1Pp3AyaIcq4J9UMkkyUUk0MkZVRERSRThQVUpRV1BPM0VJMSQlQCN0PWcu)
   - [修論・卒論チェックリスト](https://forms.office.com/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIVUrvuwyQf1Pp3AyaIcq4J9UNkU4T1RNQlFYTERMVTMyOFNVSDRRQTZXQiQlQCN0PWcu)
   - GPTs [修論・卒論をチェックするbot](https://chatgpt.com/g/g-o6tmVEUZK-xiu-lun-zu-lun-wotietukusurubot)
   - GPTs [発表スライドをチェックするbot](https://chatgpt.com/g/g-anaTsfi19-fa-biao-suraitowotietukusurubot)
