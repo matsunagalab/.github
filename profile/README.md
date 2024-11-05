@@ -52,6 +52,8 @@
   - [MDデータ解析のチュートリアル](https://github.com/matsunagalab/tutorial_analyzingMDdata)
  
 - ツール
+  - [発表スライドチェックリスト]()
+  - [修論・卒論チェックリスト](https://forms.office.com/Pages/ResponsePage.aspx?id=aa8jBSUEjUqYJ-5yksXYIVUrvuwyQf1Pp3AyaIcq4J9UNkU4T1RNQlFYTERMVTMyOFNVSDRRQTZXQiQlQCN0PWcu)
   - GPTs [修論・卒論をチェックするbot](https://chatgpt.com/g/g-o6tmVEUZK-xiu-lun-zu-lun-wotietukusurubot)
   - GPTs [発表スライドをチェックするbot](https://chatgpt.com/g/g-anaTsfi19-fa-biao-suraitowotietukusurubot)
   - GPTs [発表スライドから質問するbot](https://chatgpt.com/g/g-ajvKmcCyp-fa-biao-suraitokarazhi-wen-surubot)
