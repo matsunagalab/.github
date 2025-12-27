@@ -1,5 +1,6 @@
 ## Repositories of Matsunaga Lab
 
+- [paper_nanobody-thermostability-sae](https://github.com/matsunagalab/paper_nanobody-thermostability-sae) Mechanistic Interpretability of Fine-Tuned Protein Language Models for Nanobody Thermostability Prediction
 - [AFMFold](https://github.com/matsunagalab/afmfold) Protein structure estimation from AFM (Atomic Force Microscopy) images
 - [ColabBTR](https://github.com/matsunagalab/ColabBTR) End-to-end differentiable blind tip reconstruction on Colab implemented with PyTorch
 - [protein G](https://github.com/matsunagalab/proteing) Correcting folding pathway of Protein G by integrative modeling with Markov state model
